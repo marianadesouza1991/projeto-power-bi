@@ -25,8 +25,6 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 
 *(adicionar aqui screenshots do dashboard finalizado)*
 
-## Aprendizados
-
-*(opcional: 1-2 frases sobre o que esse projeto te ensinou ou desafiou)*
+ 
 
 <hr style="height:2px;border:none;background:linear-gradient(90deg, transparent, #6b8e4e, #2d5016);">
