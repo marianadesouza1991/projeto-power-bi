@@ -6,7 +6,7 @@ Dashboard interativo desenvolvido no Power BI para análise de desempenho financ
 
 ## Objetivo
 
-Consolidar dados financeiros e comerciais em um painel único, permitindo análise de desempenho de forma visual e interativa.
+Consolidar dados financeiros e comerciais em um painel único, permitindo análise de desempenho.
 
 ## Etapas realizadas
 
