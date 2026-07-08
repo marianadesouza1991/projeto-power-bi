@@ -37,6 +37,16 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 <img width="1888" height="884" alt="image" src="https://github.com/user-attachments/assets/d753d513-1632-4e7f-8310-ef284370a0dc" />
 
 
+
+
+
+
+
+<img width="1859" height="850" alt="image" src="https://github.com/user-attachments/assets/dce5c5cd-8983-4169-aad6-bcd3d97f8900" />
+
+
+
+
  
 
 <hr style="height:2px;border:none;background:linear-gradient(90deg, transparent, #6b8e4e, #2d5016);">
