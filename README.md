@@ -1,6 +1,32 @@
-# projeto-power-bi
-Desenvolvimento de um dashboard interativo no Power BI para análise do desempenho financeiro e comercial feito no exercício do curso da Karine Lago em que foram realizadas as seguintes etapas:
--transformação dos dados no Power Query
--Inserção tabela calendário
--Inserção tabela dimensão
--Relacionamento de Tabelas
+# Dashboard Financeiro — Power BI
+
+<hr style="height:2px;border:none;background:linear-gradient(90deg, #2d5016, #6b8e4e, transparent);margin-top:0;">
+
+Dashboard interativo desenvolvido no Power BI para análise de desempenho financeiro e comercial de uma farmácia, como exercício prático do curso da Karine Lago.
+
+## Objetivo
+
+Consolidar dados financeiros e comerciais em um painel único, permitindo análise de desempenho de forma visual e interativa.
+
+## Etapas realizadas
+
+- Transformação dos dados no Power Query
+- Inserção de tabela calendário
+- Inserção de tabela dimensão
+- Relacionamento entre tabelas
+
+## Ferramentas
+
+`Power BI` `Power Query` `DAX`
+
+<hr style="height:1px;border:none;background:#d0d0d0;">
+
+## Prints
+
+*(adicionar aqui screenshots do dashboard finalizado)*
+
+## Aprendizados
+
+*(opcional: 1-2 frases sobre o que esse projeto te ensinou ou desafiou)*
+
+<hr style="height:2px;border:none;background:linear-gradient(90deg, transparent, #6b8e4e, #2d5016);">
