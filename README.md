@@ -23,7 +23,8 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 
 ## Prints
 
-*(adicionar aqui screenshots do dashboard finalizado)*
+<img width="1346" height="680" alt="image" src="https://github.com/user-attachments/assets/d8e7ebbd-8534-4be9-a141-aedf17233f9b" />
+
 
  
 
