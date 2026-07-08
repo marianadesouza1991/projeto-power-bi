@@ -14,6 +14,8 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 - Inserção de tabela calendário
 - Inserção de tabela dimensão
 - Relacionamento entre tabelas
+- Cáculo DAX
+- Criação de Medidas Explícitas
 
 ## Ferramentas
 
