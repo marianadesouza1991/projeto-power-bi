@@ -1,4 +1,4 @@
-# Dashboard Financeiro — Power BI
+#  Power BI
 
 <hr style="height:2px;border:none;background:linear-gradient(90deg, #2d5016, #6b8e4e, transparent);margin-top:0;">
 
