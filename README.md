@@ -2,7 +2,7 @@
 
 <hr style="height:2px;border:none;background:linear-gradient(90deg, #2d5016, #6b8e4e, transparent);margin-top:0;">
 
-Dashboard interativo desenvolvido no Power BI para análise de desempenho financeiro e comercial de uma farmácia, como exercício prático do curso da Karine Lago.
+Dashboard interativo desenvolvido no Power BI para análise de desempenho financeiro e comercial de uma empresa no ramo farmacêutico, como exercício prático do curso  de Power BI da Karine Lago.
 
 ## Objetivo
 
