@@ -11,8 +11,8 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 ## Etapas realizadas
 
 - Transformação dos dados no Power Query
-- Inserção de tabela calendário
-- Inserção de tabela dimensão
+- Criação  de tabela calendário
+- Criação  de tabela dimensão
 - Relacionamento entre tabelas
 - Cáculo DAX
 - Criação de Medidas Explícitas
