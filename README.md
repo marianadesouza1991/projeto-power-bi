@@ -52,7 +52,10 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 
 
 
-<img width="1130" height="628" alt="image" src="https://github.com/user-attachments/assets/b164e4c3-4004-4cb7-97c8-aa72a5f4c86f" />
+
+
+<img width="1088" height="607" alt="image" src="https://github.com/user-attachments/assets/b2dd63c0-eaee-4d4e-8660-edcafe62ffa6" />
+
 
  
 # Meus códigos DAX
