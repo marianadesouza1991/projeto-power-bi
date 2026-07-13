@@ -58,7 +58,7 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 
 
  
-# Meus códigos DAX
+# Códigos DAX
 
 ## Tabela Calendário
 
