@@ -55,6 +55,34 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 <img width="1130" height="628" alt="image" src="https://github.com/user-attachments/assets/b164e4c3-4004-4cb7-97c8-aa72a5f4c86f" />
 
  
+# Meus códigos DAX
+
+## Tabela Calendário
+
+let
+    // 1. Identifica a data mínima e máxima da sua tabela fato "Receitas"
+    DataMinima = List.Min(Receitas[Data]),
+    DataMaxima = List.Max(Receitas[Data]),
+
+    // 2. Determina o início do primeiro ano e o fim do último ano
+    DataInicio = Date.StartOfYear(DataMinima),
+    DataFim = Date.EndOfYear(DataMaxima),
+
+    // 3. Calcula a quantidade de dias entre as datas
+    Duracao = Duration.Days(Duration.From(DataFim - DataInicio)) + 1,
+
+    // 4. Gera a lista de datas
+    Fonte = List.Dates(DataInicio, Duracao, #duration(1, 0, 0, 0)),
+
+    // 5. Converte a lista em Tabela
+    ConversaoEmTabela = Table.FromList(Fonte, Splitter.SplitByNothing(), null, null, ExtraValues.Error),
+    ColunaRenomeada = Table.RenameColumns(#"ConversaoEmTabela",{{"Column1", "Data"}}),
+    TipoAlterado = Table.TransformColumnTypes(#"ColunaRenomeada",{{"Data", type date}})
+
+in
+    TipoAlterado
+
+
 
 <hr style="height:2px;border:none;background:linear-gradient(90deg, transparent, #6b8e4e, #2d5016);">
 
