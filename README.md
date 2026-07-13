@@ -16,7 +16,8 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 - Relacionamento entre tabelas
 - Cáculo DAX
 - Criação de Medidas Explícitas
-
+- Criação Dashboard
+   
 ## Ferramentas
 
 `Power BI` `Power Query` `DAX`
