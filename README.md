@@ -70,8 +70,9 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
 
 ## 📄 Dashboard completo
 
-[📥 Visualizar PDF](dashboard.pdf).
+Uma versão estática do dashboard está disponível em PDF.
 
+➡️ [Visualizar Dashboard em PDF](dashboard_pdf.pdf)
  
 
  
