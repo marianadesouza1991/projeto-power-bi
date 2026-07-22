@@ -68,9 +68,13 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
  <img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/e5d8aae0-9289-4b2f-acde-7beecbc9c210" />
 
 
+## 📄 Dashboard completo
+
+Caso prefira visualizar uma versão estática, consulte o arquivo `dashboard.pdf`.
 
  
-# Códigos DAX
+
+ 
 
 ## Tabela Calendário
 
