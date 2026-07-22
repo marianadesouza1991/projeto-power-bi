@@ -68,11 +68,7 @@ Consolidar dados financeiros e comerciais em um painel único, permitindo análi
  <img width="1162" height="651" alt="image" src="https://github.com/user-attachments/assets/e5d8aae0-9289-4b2f-acde-7beecbc9c210" />
 
 
-## 📄 Dashboard completo
-
-Uma versão estática do dashboard está disponível em PDF.
-
-➡️ [Visualizar Dashboard em PDF](dashboard_pdf.pdf)
+📥 [Baixar Dashboard em PDF](file:///C:/Users/F6874637/Downloads/dashboard_pdf-2.pdf)
  
 
  
